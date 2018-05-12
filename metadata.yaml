@@ -1,0 +1,34 @@
+_repo: The-Phil-May-Album_37767
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Moore, Augustus M.
+    gutenberg_agent_id: '39038'
+    url: http://www.gutenberg.org/2009/agents/39038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, Phil
+    alias: Summers, Charlie
+    birthdate: 1864
+    deathdate: 1903
+    gutenberg_agent_id: '37403'
+    url: http://www.gutenberg.org/2009/agents/37403
+    wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
+description: ''
+gutenberg_issued: '2011-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcsh 'May, Phil, 1864-1903'
+- !lcc 'NC'
+title: The Phil May Album
+url: http://www.gutenberg.org/ebooks/37767
