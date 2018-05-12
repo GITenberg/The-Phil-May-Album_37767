@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37403
     wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37767#The-Phil-May-Album
 gutenberg_issued: '2011-10-16'
 gutenberg_type: Text
 identifiers:
